@@ -1,5 +1,4 @@
-# Hirst_spot_painting_using_python
-Hirst Spot Painting using Python
+# Hirst Spot Painting using Python
 
 This project is an implementation of a Hirst Spot Painting using Python. The original artwork was created by the artist Damien Hirst, and consists of colorful dots arranged in a grid pattern.
 
