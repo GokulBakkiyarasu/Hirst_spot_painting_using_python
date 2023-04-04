@@ -2,6 +2,7 @@ Hirst Spot Painting using Python Turtle Graphics
 
 This project is an implementation of the famous Hirst Spot Painting using Python Turtle Graphics. The Hirst Spot Painting is a series of paintings created by the British artist Damien Hirst in the late 1980s and early 1990s. The paintings consist of rows and columns of colored spots, and each painting is unique.
 
+![Screenshot (5)](https://user-images.githubusercontent.com/87391223/229877913-e192c187-4c6a-4504-af47-3a5b3f46fa41.png)
 
 
     Clone this repository to your local machine using git clone https://github.com/GokulBakkiyarasu/Hirst_spot_painting_using_python.git
