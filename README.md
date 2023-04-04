@@ -1,11 +1,31 @@
-# Hirst Spot Painting using Python
+Hirst Spot Painting using Python Turtle Graphics
 
-This project is an implementation of a Hirst Spot Painting using Python. The original artwork was created by the artist Damien Hirst, and consists of colorful dots arranged in a grid pattern.
+This project is an implementation of the famous Hirst Spot Painting using Python Turtle Graphics. The Hirst Spot Painting is a series of paintings created by the British artist Damien Hirst in the late 1980s and early 1990s. The paintings consist of rows and columns of colored spots, and each painting is unique.
 
-To create the Hirst Spot Painting using Python, we use the colorgram library to extract color from an image an image and the random library to generate random colors for each dot. The program first prompts the user for the size of the painting and the size of the dots. It then creates a new image and fills it with random-colored dots arranged in a grid pattern.
+Hirst Spot Painting Screenshot
+Installation
 
-The Hirst Spot Painting project is a great way to practice programming skills and explore the use of randomization in creating art. It can also be customized by changing the size of the painting or the colors of the dots.
+    Clone this repository to your local machine using git clone 
+    Ensure that you have Python 3 installed.
+    Install the turtle module, which is a standard Python library.
+    Run python hirst_spot_painting.py to generate a new Hirst Spot Painting.
 
-To run the program, simply run the Python script and follow the prompts to specify the size of the painting and the size of the dots. The resulting image will be saved in the same directory as the script.
+How to Use
 
-Overall, the Hirst Spot Painting project is a fun and creative way to explore the use of Python in creating art, and is a great example of the intersection between programming and the visual arts.
+    Each painting is unique and randomly generated.
+    The program will prompt you to enter the number of dots you want to create for the painting.
+    The dots will be arranged in a grid pattern.
+    The color of each dot is randomly selected from a predetermined set of colors.
+    The size of each dot is fixed.
+
+Project Structure
+
+    hirst_spot_painting.py - the main Python script for generating the Hirst Spot Painting.
+    img.png - contains the image from where the colors for the painting are extracted that can be used for the dots.
+
+Contributing
+
+If you would like to contribute to this project, feel free to fork the repository and submit a pull request. Your contributions are always welcome!
+Credits
+
+This project was inspired by Angela Yu's tutorial on creating a Hirst Spot Painting using Python Turtle Graphics.
